@@ -1,8 +1,8 @@
 <?php
-    echo' Nama : Mochammad David Dasilva Akbar M.S <br>';
-    echo' Kelas : XI RPL 1 <br>';
-    echo "SMK Taruna bhakti";
-    echo "Jl.kampung bojong rt4 rw20";
-    echo' email : davidchibulan@gmail.com <br>';
-    echo' No Telpon : 085695948661 <br>';
-?>
+    echo' Nama : Mochammad David Dasilva Akbar <br>';
+    echo' Kelas : XI Rpl 1 <br>';
+    echo "SMK Taruna Bhakti";
+    echo "Jatijajar RT04 RW12";
+    echo' Email : davidchibulan@gmail.com<br>' ;
+    echo' No Telepon : 0895402180101<br>';
+    ?>
